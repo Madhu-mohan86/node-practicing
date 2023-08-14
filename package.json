@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "testing the reciepie sharing app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scully86/reciepe_sharing.git"
+  },
+  "author": "madhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scully86/reciepe_sharing/issues"
+  },
+  "homepage": "https://github.com/scully86/reciepe_sharing#readme",
+  "dependencies": {
+    "cities": "^2.0.0",
+    "http-status-codes": "^2.2.0"
+  }
+}
