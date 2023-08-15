@@ -1,0 +1,16 @@
+*,html,body{
+    margin:0px;
+    display: block;
+}
+h1{
+    font-size: 32px;
+    color: blue;
+}
+h3{
+    font-size: 26px;
+    color:grey;
+}
+button{
+    background-color: blue;
+    color: yellow;
+}
